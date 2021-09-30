@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-saesa-ergo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bdc88252-c6a9-4c33-976f-f45ec0ab1364",
+		"tenantId": "9992982b-589d-46c1-889a-f840396c9a8a"
+	}
+}
